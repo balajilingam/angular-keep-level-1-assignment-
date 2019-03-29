@@ -1,0 +1,25 @@
+.compbody{
+    display: flex;
+    flex-direction: column;
+}
+.note-taker{
+    width : 50vw;
+    margin: auto;
+}
+.note-taker-wapper{
+    display: flex;
+    flex-direction: column;
+}
+.compbuttoncol{
+    display: flex;
+    justify-content: flex-end;
+}
+.notes{
+    width: 70vw;
+    margin: 10vh 20vw;
+    display: flex;
+}
+.cards{
+    width: 20vw;
+    margin: 1em;
+}
